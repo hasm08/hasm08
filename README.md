@@ -1,8 +1,6 @@
-<!-- GitHub Profile README Template -->
-
 <div align="center">
 
-# 👋 Welcome to my GitHub!
+## ✨🌟✨ Welcome to my GitHub! ✨🌟✨
 
 🌟 꾸준히 성장 중인 개발자  
 💡 새로운 기술을 배우고 적용하는 걸 좋아해요  
